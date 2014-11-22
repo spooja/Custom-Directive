@@ -1,0 +1,6 @@
+D:\pooja\CustomDirectives\CustomDirectives\bin\CustomDirectives.dll.config
+D:\pooja\CustomDirectives\CustomDirectives\bin\CustomDirectives.dll
+D:\pooja\CustomDirectives\CustomDirectives\bin\CustomDirectives.pdb
+D:\pooja\CustomDirectives\CustomDirectives\obj\Debug\CustomDirectives.csprojResolveAssemblyReference.cache
+D:\pooja\CustomDirectives\CustomDirectives\obj\Debug\CustomDirectives.dll
+D:\pooja\CustomDirectives\CustomDirectives\obj\Debug\CustomDirectives.pdb
